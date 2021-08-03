@@ -1527,26 +1527,6 @@ input:focus, textarea:focus, select:focus
    width: 100% !important;
 }
 }
-#wb_Text9 
-{
-   background-color: transparent;
-   background-image: none;
-   border: 0px solid #000000;
-   padding: 8px 14px 8px 0px;
-   margin: 0;
-   text-align: right;
-}
-#wb_Text9 div
-{
-   text-align: right;
-}
-#wb_Text9
-{
-   display: inline-block;
-   margin: 0;
-   width: 187px;
-   height: 20px;
-}
 #ThemeableButton5
 {
    font-family: Arial;
